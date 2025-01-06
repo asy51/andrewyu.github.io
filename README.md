@@ -1,9 +1,7 @@
 # About Me
 I am a Computer Science PhD candidate at Case Western Reserve University and research assistant at Cleveland Clinic. I am studying Generative AI, Computer Vision, and Medical Imaging. I also enjoy road cycling and playing guitar and piano.
 
-andrewyuysh (at) gmail
-
-[CV](./assets/cv_2024_06.pdf)
+[CV](./assets/cv_2025_01.pdf)
 
 # Research
 I am working with **Dr. Xiaojuan Li @ the Program of Advanced Musculoskeletal Imaging (Cleveland Clinic Lerner Research Institute)** to use advanced MR imaging to promote musculoskeletal health. We are using generative models to predict osteoarthritis progression.
